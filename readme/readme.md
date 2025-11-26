@@ -72,5 +72,5 @@
 -   Kaun -- Desenvolvimento
 -   Isaque
 -   Sandrack
--   ~sıcʞ 愛
+-   Gerrard
 
