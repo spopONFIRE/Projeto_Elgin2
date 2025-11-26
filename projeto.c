@@ -296,14 +296,19 @@ int main(void) {
         exibirMenu();
         scanf("%d", &opcao);
 
-        if (!configFeita && opcao != 1 && opcao != 0) {
+        if (!configFeita && opcao > 1 && opcao != 0) {
             printf("Você precisa configurar a conexão primeiro!\n");
+            system("pause");
+            system("cls");
+            continue;
         }
-        else if (configFeita && !conexaoAberta && opcao != 2 && opcao != 0 && opcao != 1) {
-            printf("Você precisa abrir a conexão antes!\n");
-        }
-        else {
 
+        if (configFeita && !conexaoAberta && opcao > 2 && opcao != 0) {
+            printf("Você precisa abrir a conexão antes!\n");
+            system("pause");
+            system("cls");
+            continue;
+        }
             switch (opcao) {
 
                 case 1:
@@ -359,5 +364,4 @@ int main(void) {
             }
         }
         system("cls");
-    }
 }
