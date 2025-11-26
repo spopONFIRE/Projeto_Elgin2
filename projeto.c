@@ -358,6 +358,7 @@ int main(void) {
                 default:
                     printf("Opção inválida!\n");
             }
+        Sleep(8000);
         system("cls");    
         }
 }
