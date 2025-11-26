@@ -62,9 +62,7 @@
 
 -   Linguagem C
 -   Visual Studio 2022
--   WinAPI
 -   DLL de comunicação oficial da Elgin
--   Ambiente Windows 64 bits
 
 ------------------------------------------------------------------------
 
