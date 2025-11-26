@@ -358,6 +358,6 @@ int main(void) {
                 default:
                     printf("Opção inválida!\n");
             }
+        system("cls");    
         }
-        system("cls");
 }
