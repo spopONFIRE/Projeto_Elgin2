@@ -298,15 +298,11 @@ int main(void) {
 
         if (!configFeita && opcao > 1 && opcao != 0) {
             printf("Você precisa configurar a conexão primeiro!\n");
-            system("pause");
-            system("cls");
             continue;
         }
 
         if (configFeita && !conexaoAberta && opcao > 2 && opcao != 0) {
             printf("Você precisa abrir a conexão antes!\n");
-            system("pause");
-            system("cls");
             continue;
         }
             switch (opcao) {
