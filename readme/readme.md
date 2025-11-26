@@ -69,8 +69,8 @@
 ## 👤 Pessoas Autoras
 
 -   João Pedro -- Desenvolvimento
--   Kaun -- Desenvolvimento
+-   Kauan -- Desenvolvimento
 -   Isaque
--   Sandrack
+-   Sadrack
 -   Gerrard
 
