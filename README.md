@@ -68,9 +68,9 @@
 
 ## 👤 Pessoas Autoras
 
+-   Gerrard
+-   Isaque
 -   João Pedro -- Desenvolvimento
 -   Kauan -- Desenvolvimento
--   Isaque
 -   Sadrack
--   Gerrard
 
